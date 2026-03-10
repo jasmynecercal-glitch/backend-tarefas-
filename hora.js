@@ -1,0 +1,1 @@
+//Valores iniciais do dia
